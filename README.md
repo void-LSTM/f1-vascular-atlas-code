@@ -1,6 +1,6 @@
 # F1 vascular atlas code
 
-Source code for the analyses in the paper "A multidimensional atlas of human vascular variation reveals complementary but distinct biological and clinical profiles".
+Source code for the analyses in the paper "Within-person comparison of four vascular measurements reveals distinct exposure profiles and weakly coupled change".
 
 Zenodo DOI: https://doi.org/10.5281/zenodo.24049325 (v1.0.0)
 
@@ -21,7 +21,7 @@ Details of every analysis are given in the Methods and Supplementary Note of the
 | Measurement correction and retest reliability (Methods; Extended Data Fig. 2a) | `hpp/f1_atlas_v1_5.py`, `hpp/f1_acq_anatomy_v1.py`, `hpp/f1_acq_audit_v1.py` |
 | Table 1 | `hpp/f1_common_four_characteristics_v1.py` |
 | Fig. 1 (overview) | Values from the analyses below (Source Data Fig. 1) |
-| Fig. 2a,d; Extended Data Fig. 1; Supplementary Table 2 (250-exposure atlas, models M1–M3, heterogeneity tests) | `hpp/f1_exposome_v1.py` |
+| Fig. 2a,d; Extended Data Fig. 1; Supplementary Fig. 7; Supplementary Table 2 (250-exposure atlas, models M1–M3, heterogeneity tests) | `hpp/f1_exposome_v1.py` |
 | Fig. 2b,c; Extended Data Figs. 2b, 5c and 7; Supplementary Fig. 1; Supplementary Table 1 (shared pattern, permutation tests, adverse-decile overlap, age equivalents, body-size matching, oral taxa) | `hpp/f1_robust_v1.py` (uses `f1_exposome_v1.py`, `f1_family_v1_1.py`, `f1_omics_v1_2.py`) |
 | Fig. 3a,b; Extended Data Fig. 5a,b (cardiorespiratory and skeletal exposures) | `hpp/f1_exposome_v1.py` |
 | Fig. 3c; Extended Data Fig. 3 (usual, acute and beyond-acute heart rate) | `hpp/f1_nk_hr_v1.py` |
