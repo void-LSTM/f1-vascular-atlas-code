@@ -1,6 +1,6 @@
 # F1 vascular atlas code
 
-Source code for the analyses in the paper "Within-person comparison of four vascular measurements reveals distinct exposure profiles and weakly coupled change".
+Source code for the analyses in the paper "Heterogeneous exposure profiles across four vascular measurements and prediction of later vascular phenotypes".
 
 Zenodo DOI: https://doi.org/10.5281/zenodo.24049325 (v1.0.0)
 
