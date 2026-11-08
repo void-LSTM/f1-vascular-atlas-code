@@ -1,0 +1,6 @@
+# Analyses inside the HPP research environment ran with exactly these versions (Python 3.11.5).
+numpy==1.26.4
+pandas==2.1.0
+scipy==1.11.4
+scikit-learn==1.4.1.post1
+pyarrow==15.0.0

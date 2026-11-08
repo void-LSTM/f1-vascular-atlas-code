@@ -1,0 +1,12 @@
+# Data and outputs are never part of this repository
+external/
+results/
+scratch/
+data/
+outputs/
+*.parquet
+*.npz
+*.pkl
+*.lock
+__pycache__/
+.DS_Store

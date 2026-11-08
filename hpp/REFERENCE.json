@@ -1,0 +1,122 @@
+{
+  "source_url": "https://raw.githubusercontent.com/giannimonaco/ABIS/master/data/sigmatrixRNAseq.txt",
+  "source_sha256": "a86eaadb747a9d69e9a22df2e0d01af785244211c68111b568e603d57816bb23",
+  "groups": {
+    "NK": [
+      "NK"
+    ],
+    "CD4": [
+      "T CD4 Naive",
+      "T CD4 Memory"
+    ],
+    "CD8": [
+      "T CD8 Memory",
+      "T CD8 Naive"
+    ],
+    "B": [
+      "B Naive",
+      "B Memory",
+      "Plasmablasts"
+    ],
+    "mono": [
+      "Monocytes C",
+      "Monocytes NC+I"
+    ],
+    "DC": [
+      "mDCs",
+      "pDCs"
+    ],
+    "otherT": [
+      "MAIT",
+      "T gd Vd2",
+      "T gd non-Vd2"
+    ],
+    "LDneut": [
+      "Neutrophils LD"
+    ],
+    "LDbaso": [
+      "Basophils LD"
+    ]
+  },
+  "excluded_programme_genes": [
+    "ADRB2",
+    "ALAS2",
+    "B3GAT1",
+    "BANK1",
+    "CCR7",
+    "CD14",
+    "CD19",
+    "CD2",
+    "CD28",
+    "CD3D",
+    "CD3E",
+    "CD68",
+    "CD79A",
+    "CD79B",
+    "CD8A",
+    "CD8B",
+    "CREM",
+    "CSF1R",
+    "CX3CR1",
+    "CXCL8",
+    "DDIT4",
+    "DUSP1",
+    "FCGR3A",
+    "FCN1",
+    "FGFBP2",
+    "FKBP5",
+    "FOS",
+    "GNLY",
+    "GP9",
+    "GZMA",
+    "GZMB",
+    "GZMH",
+    "HBA1",
+    "HBA2",
+    "HBB",
+    "IFI27",
+    "IFI44",
+    "IFI44L",
+    "IFIT1",
+    "IFIT3",
+    "IL1B",
+    "IL6",
+    "IL7R",
+    "ISG15",
+    "ITGA2B",
+    "KLF9",
+    "KLRC2",
+    "KLRD1",
+    "KLRF1",
+    "KLRG1",
+    "LCK",
+    "LEF1",
+    "LYZ",
+    "MS4A1",
+    "MX1",
+    "NCR1",
+    "NKG7",
+    "NLRP3",
+    "OAS1",
+    "PER1",
+    "PF4",
+    "PPBP",
+    "PRF1",
+    "RSAD2",
+    "S100A12",
+    "S100A8",
+    "S100A9",
+    "SELL",
+    "SH2D1B",
+    "SIGLEC1",
+    "TCF7",
+    "TNF",
+    "TSC22D3",
+    "TUBB1",
+    "VCAN",
+    "ZBTB16",
+    "ZNF683"
+  ],
+  "genes": 1278,
+  "interpretation": "RNA composition proxy; not validated cell fractions or ABIS absolute deconvolution"
+}
