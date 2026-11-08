@@ -2,6 +2,8 @@
 
 Source code for the analyses in the paper "A multidimensional atlas of human vascular variation reveals complementary but distinct biological and clinical profiles".
 
+Zenodo DOI: https://doi.org/10.5281/zenodo.24049325 (v1.0.0)
+
 ## Overview
 
 The study relates four vascular measurements in the Human Phenotype Project (HPP) to 250 exposures, molecular layers, genetics, change over time and later clinical measurements. The four measurements are femoral–ankle pulse wave velocity (faPWV), carotid intima–media thickness (cIMT), retinal artery width and the ankle–brachial index (ABI). External public cohorts and GWAS summary statistics are used for replication, Mendelian randomization and clinical endpoints.
